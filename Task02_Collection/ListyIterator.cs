@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Linq;
+using System.Collections;
 
 namespace ListyIterator
 {
-    public class ListyIterator<T>
+    public class ListyIterator<T> : IEnumerable<T>
     {
         private List<T> dataList;
         private int index;
@@ -61,6 +62,31 @@ namespace ListyIterator
                 Console.WriteLine(dataList[index]);
             }
 
+        }
+
+        public void PrintAll()
+        {
+            if (dataList.Count == 0)
+            {
+                Console.WriteLine("Invalid Operation!");
+            }
+            else
+            {
+                Console.WriteLine(string.Join(' ', dataList));
+            }
+
+        }
+        public IEnumerator<T> GetEnumerator()
+        {
+            foreach (T element in dataList)
+            {
+                yield return element;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return this.GetEnumerator();
         }
     }
 }

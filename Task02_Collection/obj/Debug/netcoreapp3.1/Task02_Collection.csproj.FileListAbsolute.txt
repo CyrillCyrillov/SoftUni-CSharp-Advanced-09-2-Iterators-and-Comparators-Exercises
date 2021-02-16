@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\bin\Debug\netcoreapp3.1\Task02_Collection.exe
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\bin\Debug\netcoreapp3.1\Task02_Collection.deps.json
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\bin\Debug\netcoreapp3.1\Task02_Collection.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\bin\Debug\netcoreapp3.1\Task02_Collection.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\bin\Debug\netcoreapp3.1\Task02_Collection.dll
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\bin\Debug\netcoreapp3.1\Task02_Collection.pdb
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.dll
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.pdb
+C:\Users\Kiril\Advanced_CSharp\09_CSharp-Advanced-Iterators-and-Comparators-Exercises\Task02_Collection\obj\Debug\netcoreapp3.1\Task02_Collection.genruntimeconfig.cache
